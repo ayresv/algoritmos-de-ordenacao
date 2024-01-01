@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-#include <time.h>
 #define TAMANHO_VETOR 10000
 
 // FUNCOES AUXILIARES
